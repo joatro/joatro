@@ -1,5 +1,5 @@
 
-<p><img width="1280" heigth="100" src="https://github.com/joatro/joatro/blob/0fe823e7bd4ff40a3afdb9524816d5796df73496/Black%20White%20Bold%20Fashion%20Product%20Promotion%20Landscape%20Banner.png"></p>
+<p><img width="900" heigth="100" src="https://github.com/joatro/joatro/blob/fbf6d99aef83f1c6f263eb01e50b99be0cb163c9/2.png"></p>
 
 
 
